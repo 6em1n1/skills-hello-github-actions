@@ -18,9 +18,6 @@ Here's a recap of all the tasks you've accomplished in your repository:
 - You learned where to make your workflow file.
 - You defined an event trigger, a job, and a step for your workflow.
 - You're ready to automate anything you can dream of.
-
-### What's next?
-
 - Learn more about GitHub Actions by reading "[Learn GitHub Actions](https://docs.github.com/actions/learn-github-actions)"
 - Use actions created by others in [awesome-actions](https://github.com/sdras/awesome-actions)
 - We'd love to hear what you thought of this course [in our discussion board](https://github.com/orgs/skills/discussions/categories/hello-github-actions)
